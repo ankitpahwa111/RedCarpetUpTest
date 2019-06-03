@@ -12,4 +12,5 @@ View Demo @ https://redcarpetup-reviewer.herokuapp.com/
      a) View pending reviews
      b) Reject/Select the reviews
  6) Admin/reviewer can logout anytime which will take him to dashboard.
+ <br/> <br/>
 ![](RedCarpetUp.JPG)
